@@ -63,3 +63,4 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 /android/app/debug.keystore
+/android/app/src/debug/
